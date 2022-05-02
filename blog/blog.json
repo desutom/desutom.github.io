@@ -1,0 +1,8 @@
+{
+    "blog": "posts.html",
+    "template": "template.html",
+    "rss": "rss.xml",
+    "items": 4,
+    "blog_address": "",
+    "images": true
+}
